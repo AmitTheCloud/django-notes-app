@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : asolanki1811/my-note-app:latest
+     image : asolanki1811/notes-app
      ports :
          - "8000:8000"
